@@ -1,5 +1,5 @@
 public class HelloWorld{
   public static void main(String[] args){
-    System.out.println("-----***** Triyng Webhooka ******------");
+    System.out.println("-----***** Triyng Webhookas ******------");
   }
 }
